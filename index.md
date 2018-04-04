@@ -1,4 +1,4 @@
-__[Home](grinthy.github.io) | [PocketWiki](grinthy.github.io/wiki/home) | [Site Status](grinthy.github.io/status.md)__
+[Home](grinthy.github.io) | [PocketWiki](grinthy.github.io/wiki/home) | [Site Status](grinthy.github.io/status.md)
 
 
 
