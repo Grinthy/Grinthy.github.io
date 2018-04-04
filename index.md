@@ -1,5 +1,4 @@
-# Grinthy
-__[Home](grinthy.github.io) | [PocketWiki](grinthy.github.io/wiki/home) | [Projects](grinthy.github.io/projects) | [Site Status](grinthy.github.io/status)__
+__[Home](grinthy.github.io) | [PocketWiki](grinthy.github.io/wiki/home) | [Site Status](grinthy.github.io/status.md)__
 
 
 
@@ -7,7 +6,7 @@ Welcome to my website! Here, you'll find information about me, and how I make a 
 
 First of all, about me.
 
-#####About Me
+__About Me__
 
 First of all, I'm a male.  I'm on Scratch, and educational programming language. I'm working on the HTML-OS (at github.com/html-os-org) and the PocketWiki (click the link at the top). I like _sans-serif_, _Markdown_, The _Nashville Predators_, and _HTML_. I'm also a GitHuber.
 
