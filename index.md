@@ -1,4 +1,4 @@
-[Home](grinthy.github.io) | [PocketWiki](grinthy.github.io/wiki/home.md) | [HTML-OS](github.com/html-os-org) | [Site Status](grinthy.github.io/status.md)
+[Home](https://grinthy.github.io) | [PocketWiki](https://grinthy.github.io/wiki/home.md) | [HTML-OS](https://github.com/html-os-org) | [Site Status](https://grinthy.github.io/status.md)
 
 
 
