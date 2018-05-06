@@ -12,7 +12,9 @@ I'm on Scratch, an educational programming language. I'm working on the HTML-OS 
 __Projects__
 My projects are:
 
-- [HTML-OS](github.com/HTML-OS-ORG)
+- [HTML-OS](github.com/HTML-OS-ORG) [HTML-OS Discord](discord.gg/4qKX6FM)
 - [Pocketwiki](grinthy.github.io/wiki/home.md)
 
 This site is written in Markdown, except the redirection pages, those are HTML with JS embedded.
+
+![profile-pic](https://avatars2.githubusercontent.com/u/26236870?s=460&v=4 "My Profile Pic")
